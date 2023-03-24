@@ -178,3 +178,28 @@ python train.py --model_G ./demo/model_cn
  </tr>
  <![endif]>
 </table>
+
+## 参考文献
+
+```
+@article{yu2018generative,
+  title={Generative Image Inpainting with Contextual Attention},
+  author={Yu, Jiahui and Lin, Zhe and Yang, Jimei and Shen, Xiaohui and Lu, Xin and Huang, Thomas S},
+  journal={arXiv preprint arXiv:1801.07892},
+  year={2018}
+}
+@article{Iizuka2017GloballyAL,
+  title={Globally and locally consistent image completion},
+  author={Satoshi Iizuka and Edgar Simo-Serra and Hiroshi Ishikawa},
+  journal={ACM Transactions on Graphics (TOG)},
+  year={2017},
+  volume={36},
+  pages={1 - 14}
+}
+@inproceedings{deng2019accurate,
+    title={Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set},
+    author={Yu Deng and Jiaolong Yang and Sicheng Xu and Dong Chen and Yunde Jia and Xin Tong},
+    booktitle={IEEE Computer Vision and Pattern Recognition Workshops},
+    year={2019}
+}
+```
