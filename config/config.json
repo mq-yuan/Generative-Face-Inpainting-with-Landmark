@@ -1,0 +1,1 @@
+{"data_dir": "./test/", "test_dir": "./test_data/", "result_dir": "./result/", "init_model_G": "./demo/model_cn", "init_model_D": null, "num_epochs_pregen": 8, "num_epochs_predis": 2, "num_epochs_step3": 40, "input_generator_size": 160, "batch_size": 32, "alpha": 0.0004, "mpv": [0.5109094257003173, 0.41451381534316145, 0.3723845290805799]}
