@@ -1,5 +1,5 @@
 
-![result_1](https://typora-ilgzh.oss-cn-beijing.aliyuncs.com/202303241316072.png)
+![result_1](./results/predict.png)
 
 ## 实验环境
 
@@ -91,12 +91,12 @@ python train.py --model_G ./demo/model_cn
 
 ### 视觉效果
 
-![result_1](https://typora-ilgzh.oss-cn-beijing.aliyuncs.com/202303241316074.png)
+![result_1](./results/视觉效果比较图.png)
 <center> 图1 视觉效果比较图 </center>
 
 ### 关键点
 
-![result_2](https://typora-ilgzh.oss-cn-beijing.aliyuncs.com/202303241316075.png)
+![result_2](./results/关键点比较图.png)
 <center> 图2 关键点比较图 </center>
 
 ### 图像质量定性分析
